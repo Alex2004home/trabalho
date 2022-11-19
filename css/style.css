@@ -1,0 +1,26 @@
+* {
+    font-family: 'Poppins';
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    color: #110b50;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    color: #e7d913;
+}
+p{
+    padding: 0.1rem;
+    margin: 2rem;
+    font-size: 400;
+    border:solid 0.1rem #ff5b5b;
+}
+.image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
